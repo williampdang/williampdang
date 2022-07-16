@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @williampdang
-- 👀 I’m interested in basketball, running, social network analysis, and numerical analysis
-- 🌱 I’m currently learning C#/.Net, NoSQL (MongoDB), C++ Scripting, React Native, NodeJS, AWS, Heroku
+- 👀 I’m interested in basketball, running, and social network analysis
+- 🌱 I’m currently learning Flask, React, JavaScript, MongoDB, Heroku, PyTest, Design Thinking
 
 <!---
 williampdang/williampdang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
